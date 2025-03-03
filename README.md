@@ -18,5 +18,5 @@ I thrive on solving complex problems and delivering efficient, high-quality solu
 
 📫 Reach me: lgollapelli891@gmail.com | LinkedIn: https://www.linkedin.com/in/lavanya-gollapelli-245ab61b8/
 
-⚡ Fun Fact: I love art, sketching, photography.
+⚡ Fun Fact: I love art, sketching, painting and photography.
 
