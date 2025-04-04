@@ -1,4 +1,4 @@
-👋 Hi, I’m Lavanya Gollapelli (@lavisg-2001)  
+👋 Hi, I’m Lavanya Gollapelli 
 Software Engineer | Pune, India  
 
 👀 About Me  
