@@ -14,7 +14,7 @@ I thrive on solving complex problems and delivering efficient, high-quality solu
 
 💞️ Projects  
 - Weather & Air Quality Tracker
-- Portfolio Website  
+- Portfolio Website (https://lavanya-portfolio-neon.vercel.app/) 
 - Restaurant Management System
 
 📫 lgollapelli891@gmail.com | LinkedIn: https://www.linkedin.com/in/lavanya-gollapelli-245ab61b8/
