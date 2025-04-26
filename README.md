@@ -12,7 +12,7 @@ I thrive on solving complex problems and delivering efficient, high-quality solu
 - Tools: Git, Docker, CI/CD - Azure DevOps, AWS EKS  
 - Frontend: Angular, HTML, CSS  
 
-💞️ Projects  
+🚀 Projects  
 - Weather & Air Quality Tracker
 - Portfolio Website (https://lavanya-portfolio-neon.vercel.app/) 
 - Restaurant Management System
