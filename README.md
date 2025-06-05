@@ -10,9 +10,10 @@ I thrive on solving complex problems and delivering efficient, high-quality solu
 - Backend: Java, Spring Boot, Kafka, RESTful APIs, JUnit Test cases
 - Databases: MongoDB, SQL  
 - Tools: Git, Docker, CI/CD - Azure DevOps, AWS EKS  
-- Frontend: Angular, HTML, CSS  
+- Frontend: JavaScript, React, Angular, HTML, CSS  
 
 🚀 Projects  
+- Questionnaire Application
 - Weather & Air Quality Tracker
 - Portfolio Website (https://lavanya-portfolio-neon.vercel.app/) 
 - Restaurant Management System
